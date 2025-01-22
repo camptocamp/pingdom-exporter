@@ -1,4 +1,4 @@
-module github.com/monotek/pingdom-exporter
+module github.com/jusbrasil/pingdom-exporter
 
 require (
 	github.com/jusbrasil/pingdom-exporter v1.4.2
