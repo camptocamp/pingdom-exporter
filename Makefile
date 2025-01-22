@@ -1,6 +1,6 @@
 GO=CGO_ENABLED=0 GOOS=linux GOARCH=amd64 go
 BIN=pingdom-exporter
-IMAGE=jusbrasil/$(BIN)
+IMAGE=monotek/$(BIN)
 DOCKER_BIN=docker
 
 TAG=$(shell git describe --tags)

@@ -1,5 +1,7 @@
 # Pingdom Metrics Exporter for Prometheus
 
+This is a fork of: (https://github.com/camptocamp/prometheus-pingdom-exporter)
+
 Prometheus exporter for uptime metrics exposed by the Pingdom API.
 
 ## Running
